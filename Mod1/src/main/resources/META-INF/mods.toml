@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[44,)"
+license="MIT"
+
+[[mods]]
+modId="testmoda"
+version="${file.jarVersion}"
+displayName="Test Mod A"
+description='''
+Test Mod to demonstrate Crashes
+'''
